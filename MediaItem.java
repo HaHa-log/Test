@@ -16,4 +16,5 @@ abstract class MediaItem {
     }
     System.out.println("helloooo");
     System.out.println("Why hi thank you");
+    System.out.println("WHAT THE HELL IS HAPPENING");
 }
