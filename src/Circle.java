@@ -9,4 +9,6 @@ public class Circle extends Shape {
     public void erase() {
         System.out.println("Xoa hinh tron tai (" + x + ", " + y + ")" );
     }
+
+    System.out.println("abc");
 }
